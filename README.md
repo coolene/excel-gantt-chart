@@ -3,6 +3,8 @@ A dynamic, easy-to-use Gantt chart template for project planning and tracking in
 
 ![Example](/Images/Ex.jpg)
 
+I have also remixed this into a Leave Tracker! Will share when I have the time~
+
 ## Download & Setup
 **Download the file**: [Gantt Chart Template Excel](https://github.com/coolene/excel-gantt-chart/blob/main/GanttChartTemplate_Raw_v1.0.xlsx)
 
